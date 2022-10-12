@@ -1,0 +1,21 @@
+.btn{
+    color: red;
+    background-color: blanchedalmond;
+    border-radius: 10px;
+    width: 100px;
+    height: 30px;
+    margin-left: 425px;
+    margin-top: 190px;
+
+}
+h1{
+    text-align: center;
+    color: yellowgreen;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serifs;
+    font-size: 60px;
+
+}
+.btn:hover{
+    background-color: darkgreen;
+    transition: 0.3s;
+}
